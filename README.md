@@ -1,4 +1,3 @@
-```markdown
 # AKB CLI
 
 <p align="center">
@@ -276,4 +275,4 @@ This project is licensed under the MIT License. See the **LICENSE** file for det
   <p>If you enjoyed exploring AKB CLI, feel free to ⭐ the repository.</p>
   <p>Thank you for visiting!</p>
 </p>
-```
+
