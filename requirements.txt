@@ -1,0 +1,13 @@
+# ============================================
+# AKB CLI v1.0.0
+# Personal Interactive CLI Portfolio
+# Author: Anurag Kumar Bharti
+#
+# This project uses only Python's Standard Library.
+# No third-party packages are required.
+#
+# Recommended Python Version:
+# Python 3.10+
+# ============================================
+
+# No external dependencies.
