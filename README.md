@@ -89,7 +89,7 @@ The hidden **more** section contains:
 ![About](assets/about.png)
 
 ### Projects
-![Projects](assets/projects.png)
+![Project](assets/project.png)
 
 ### Details
 ![Details](assets/details.png)
@@ -205,7 +205,7 @@ akb-cli/
 │   ├── details.png
 │   ├── exit.png
 │   ├── help.png
-│   ├── projects.png
+│   ├── project.png
 │   ├── more.png
 │   └── goodbye.png
 │
